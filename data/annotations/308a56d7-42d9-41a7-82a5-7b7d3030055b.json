@@ -1,5 +1,405 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Filmed in Nasuoni Village, Juela Township, Nangqian County, Yushu Tibetan Autonomous Prefecture, Qinghai, China, this documentary focuses on a Khampa Tibetan community. It explores how local women establish relationships with animals, their environment, and spiritual beings through everyday listening."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Place; Sonic Knowledge; Multispecies Relations"
+        }
+      ],
+      "uuid": "72816242-7277-4f32-bd13-c7eacb42a80b"
+    },
+    {
+      "start_time": 133,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The sounds of Tibetan women milking can be heard in the background. These sounds of everyday labor form part of the acoustic environment in which women and yaks interact regularly and become familiar with one another."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Everyday Sounds; Gendered Labor; Human–Yak Relations"
+        }
+      ],
+      "uuid": "ece5780f-17b9-494c-8767-5db163c496eb"
+    },
+    {
+      "start_time": 152,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bayang can distinguish yak calls associated with different states and recognize the individual appearance of more than a hundred animals in her family’s herd. In her household and the pastoral households I encountered, women undertake much of the everyday work of caring for livestock. These sustained interactions cultivate detailed knowledge of animals and affective relationships, raising a question: does knowledge formed through this labor receive corresponding social recognition?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gendered Labor; Sonic Knowledge; Human–Yak Relations; Social Recognition"
+        }
+      ],
+      "uuid": "6c58abce-0429-4e48-bfec-5b0ebffa5383"
+    },
+    {
+      "start_time": 269,
+      "end_time": 304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bayang connects changes in grassland vegetation with increasing human activity and playfully interprets the magpie’s call as a warning of danger posed by humans. In her account, birdsong becomes a way of reflecting on changing relationships between people, plants, and animals: the sounds remain, while relationships of familiarity and closeness are changing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bird Calls; Environmental Change; Multispecies Relations"
+        }
+      ],
+      "uuid": "a70aeec3-7336-408f-853b-4744dc163c7d"
+    },
+    {
+      "start_time": 328,
+      "end_time": 367,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As a member of a local women’s environmental protection team, Bayang regrets the gradual loss of sonic knowledge. She sees this loss as intertwined with changes in grassland ecology, declining species diversity, and shifts in everyday life. What is fading includes both the ability to recognize sounds and the intergenerational transmission of cultural knowledge associated with them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Sonic Knowledge; Environmental Change; Knowledge Transmission; Conservation"
+        }
+      ],
+      "uuid": "cf1b6017-a07e-4bfb-8a80-b4a14743d888"
+    },
+    {
+      "start_time": 373,
+      "end_time": 383,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The title Who Has Seen the Sounds? invites viewers to understand sound as something experienced, remembered, and witnessed. Listening intertwines with bodily experience, visual memory, and social relationships. This resonates with acoustemology’s emphasis on knowing the world through sound within relationships, while opening a discussion of which listening experiences are valued and which are overlooked."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Acoustemology; Embodied Listening; Memory; Social Recognition"
+        }
+      ],
+      "uuid": "4be0e163-47ae-4af3-81c9-eacfd78de3d2"
+    },
+    {
+      "start_time": 387,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This folk song praises the Tibetan snowcock, bringing birds into human song and storytelling. Its wording and metaphors offer insight into how the snowcock acquires affective and spiritual significance. [A summary of the lyrics will be added.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Song; Tibetan Snowcock; Spiritual Relations"
+        }
+      ],
+      "uuid": "5551565c-759e-475c-9a2f-d192c22d7f4f"
+    },
+    {
+      "start_time": 421,
+      "end_time": 435,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In fieldwork conversations in Nasuoni Village, the Tibetan snowcock was described as “a deity among birds.” This description suggests that relationships between people and birds include dimensions of reverence and spirituality that cannot be understood solely through species identification or resource use."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tibetan Snowcock; Spiritual Relations; Multispecies Relations"
+        }
+      ],
+      "uuid": "ada591e6-3458-4c57-b9c3-eb8c7105d8fc"
+    },
+    {
+      "start_time": 436,
+      "end_time": 450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this account, the cuckoo’s call is associated with good fortune for the year. Hearing the bird becomes a moment of anticipating the future and forming expectations, showing how sound helps shape understandings of time and life’s possibilities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bird Calls; Omens; Temporality"
+        }
+      ],
+      "uuid": "40f246cd-6e8c-4bc9-9766-20772d519303"
+    },
+    {
+      "start_time": 483,
+      "end_time": 520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The interviewee associates certain marmot behaviors and calls with the circumstances of the person who witnesses them in the coming year."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Animal Calls; Omens; Multispecies Relations"
+        }
+      ],
+      "uuid": "9577126d-b79b-42ea-88cf-1d567ce921af"
+    },
+    {
+      "start_time": 594,
+      "end_time": 628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This account connects the owl’s call with illness in children. Here, the bird’s call carries concerns about sickness and the well-being of the family."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bird Calls; Illness; Omens; Care"
+        }
+      ],
+      "uuid": "211483a3-f5c2-4339-8d81-f569697acb62"
+    },
+    {
+      "start_time": 635,
+      "end_time": 651,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The filmmaking team uses an illustrated wildlife guide containing both scientific and local Tibetan names to discuss species and their sounds with local residents. The guide mediates between knowledge systems, suggesting that scientific classifications and local names do not necessarily correspond one-to-one. Different names may foreground different aspects of an animal’s appearance, behavior, and relationships with people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Naming and Classification; Knowledge Translation; Fieldwork Methods"
+        }
+      ],
+      "uuid": "44c1d4bf-707e-4638-acb0-bfaff7298204"
+    },
+    {
+      "start_time": 652,
+      "end_time": 670,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bayang’s reference to “moving in May” describes pastoral households relocating from winter to summer pastures. Seasonal movement also changes the animals, sounds, and environments people encounter, continually renewing listening experiences through the rhythms of pastoral life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pastoralism; Seasonal Mobility; Temporality; Embodied Listening"
+        }
+      ],
+      "uuid": "a134cd90-8cda-4db0-8aa8-2e8f94251032"
+    },
+    {
+      "start_time": 744,
+      "end_time": 772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mobile network coverage is limited at the filming location, making two-way radios important tools for communication on the pastures. Calls over the radios connect family members dispersed across the grazing grounds, and their electronic sounds form part of the local everyday acoustic environment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Everyday Sounds; Communication Technology; Kinship; Pastoralism"
+        }
+      ],
+      "uuid": "f4f7bd80-9a2a-4bc7-9140-4915b7857f44"
+    },
+    {
+      "start_time": 773,
+      "end_time": 797,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The speaker hears the Tibetan snowcock’s call as the voices of her parents, allowing the bird’s call to carry familial affection and memory. Through this listening experience, the relationship between human and bird takes on the affective significance of kinship, inviting reflection on how kinship is felt and expressed across species boundaries."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tibetan Snowcock; Kinship; Memory; Multispecies Relations"
+        }
+      ],
+      "uuid": "6dc940b3-46c4-47ea-b44b-e2317dd4b824"
+    },
+    {
+      "start_time": 868,
+      "end_time": 955,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the account of “zhihiu,” a sound that can be heard but whose source is difficult to see is associated with the deceased and their lingering “attachments.” Sound allows a presence beyond sight to remain perceptible, bringing death into the present act of listening. This narrative suggests that identifying a sound’s source is not the only way to understand it; local interpretations and responses are also essential to sonic knowledge."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Spiritual Relations; Death and Mourning; Memory; Sonic Knowledge"
+        }
+      ],
+      "uuid": "02e6dd0a-3e55-4ff0-bc3b-781b6aa727d5"
+    },
+    {
+      "start_time": 957,
+      "end_time": 1030,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bayang recounts her young niece’s misdiagnosis and the pain it has left her with. This personal account situates the preceding sonic experiences of death and absence within a specific family history, while raising questions about healthcare access, communication between patients and providers, and trust."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Illness; Death and Mourning; Care; Healthcare Access"
+        }
+      ],
+      "uuid": "a943ee63-a220-449d-a058-5443e05867ec"
+    },
+    {
+      "start_time": 1031,
+      "end_time": 1079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Monastic chanting in the background accompanies images of temples, monks, and mani stones. The mani stone in the final shot bears “oṃ,” the opening syllable of the six-syllable mantra. Sound and inscription are juxtaposed here, bringing religious practice into the film through both hearing and sight."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ritual Sound; Tibetan Buddhism; Multisensory Experience"
+        }
+      ],
+      "uuid": "ff4bb4a1-a6a1-4002-8896-f790032e7e6f"
+    },
+    {
+      "start_time": 1080,
+      "end_time": 1110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here, Caiding Zhuoma chants the six-syllable mantra “oṃ maṇi padme hūṃ.” Associated with Avalokiteśvara, the bodhisattva of compassion, the mantra connects sound with compassion, spiritual practice, and prayer. Following accounts of illness, death, and familial affection, the chanting also offers viewers a space to pause and listen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ritual Sound; Tibetan Buddhism; Care; Death and Mourning"
+        }
+      ],
+      "uuid": "8e04c057-113b-4654-ac51-f1aa86638c7a"
+    }
+  ],
   "set": "Default",
   "event_id": "12203f85-a78e-4fea-8f3f-01f5bd5b3b61",
   "source_id": "7e8c568e-a634-4f04-87c1-c6de3db2abd0"
