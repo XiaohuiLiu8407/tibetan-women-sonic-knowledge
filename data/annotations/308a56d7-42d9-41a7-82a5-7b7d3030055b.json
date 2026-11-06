@@ -420,7 +420,19 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Illness; Death and Mourning; Care; Healthcare Access"
+          "tag": "Illness"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Death and Mourning"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Care"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Healthcare Access"
         }
       ],
       "uuid": "a943ee63-a220-449d-a058-5443e05867ec"
