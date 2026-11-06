@@ -136,7 +136,19 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Sonic Knowledge; Environmental Change; Knowledge Transmission; Conservation"
+          "tag": "Sonic Knowledge"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Environmental Change"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Knowledge Transmission"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Conservation"
         }
       ],
       "uuid": "cf1b6017-a07e-4bfb-8a80-b4a14743d888"
