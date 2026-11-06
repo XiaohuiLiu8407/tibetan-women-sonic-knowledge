@@ -169,7 +169,19 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Acoustemology; Embodied Listening; Memory; Social Recognition"
+          "tag": "Acoustemology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Embodied Listening"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Social Recognition"
         }
       ],
       "uuid": "4be0e163-47ae-4af3-81c9-eacfd78de3d2"
