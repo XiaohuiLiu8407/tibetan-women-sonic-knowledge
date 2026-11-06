@@ -273,7 +273,15 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Animal Calls; Omens; Multispecies Relations"
+          "tag": "Animal Calls"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Omens"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Multispecies Relations"
         }
       ],
       "uuid": "9577126d-b79b-42ea-88cf-1d567ce921af"
