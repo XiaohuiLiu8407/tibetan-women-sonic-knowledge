@@ -99,10 +99,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Ritual Sound; Tibetan Buddhism; Multisensory Experience"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Ritual Sound; Tibetan Buddhism; Care; Death and Mourning"
         },
         {
@@ -244,7 +240,7 @@
       ]
     },
     "created_at": "2026-10-23T02:30:05.702Z",
-    "updated_at": "2026-11-06T18:12:42.279Z",
+    "updated_at": "2026-11-06T18:12:51.656Z",
     "generate_pages_site": true
   },
   "annotations": {},
