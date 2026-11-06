@@ -357,7 +357,19 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Everyday Sounds; Communication Technology; Kinship; Pastoralism"
+          "tag": "Everyday Sounds"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Communication Technology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kinship"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pastoralism"
         }
       ],
       "uuid": "f4f7bd80-9a2a-4bc7-9140-4915b7857f44"
