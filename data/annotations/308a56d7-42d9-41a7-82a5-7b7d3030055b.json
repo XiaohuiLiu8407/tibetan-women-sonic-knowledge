@@ -294,7 +294,19 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Bird Calls; Illness; Omens; Care"
+          "tag": "Bird Calls"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Illness"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Omens"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Care"
         }
       ],
       "uuid": "211483a3-f5c2-4339-8d81-f569697acb62"
