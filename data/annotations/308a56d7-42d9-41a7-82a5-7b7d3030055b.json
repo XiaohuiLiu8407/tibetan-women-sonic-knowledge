@@ -107,7 +107,15 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Bird Calls; Environmental Change; Multispecies Relations"
+          "tag": "Bird Calls"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Environmental Change"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Multispecies Relations"
         }
       ],
       "uuid": "a70aeec3-7336-408f-853b-4744dc163c7d"
