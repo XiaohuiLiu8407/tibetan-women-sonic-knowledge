@@ -252,7 +252,15 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Bird Calls; Omens; Temporality"
+          "tag": "Bird Calls"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Omens"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Temporality"
         }
       ],
       "uuid": "40f246cd-6e8c-4bc9-9766-20772d519303"
