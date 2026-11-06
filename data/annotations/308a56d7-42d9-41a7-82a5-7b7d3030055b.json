@@ -315,7 +315,15 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Naming and Classification; Knowledge Translation; Fieldwork Methods"
+          "tag": "Naming and Classification"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Knowledge Translation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Fieldwork Methods"
         }
       ],
       "uuid": "44c1d4bf-707e-4638-acb0-bfaff7298204"
